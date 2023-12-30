@@ -27,10 +27,13 @@ print("Columns", len(df.axes[1]))
 ```
 ## OUTPUT:
 ![image](https://github.com/vinnush147/Read-from-CSV/assets/147139234/085ccf19-891c-4bac-ba3e-ff414d22bd93)
-![Uploading f3fd455b-7a6d-4ed1-a981-b6711aa5f832.jpg…]()
+![f3fd455b-7a6d-4ed1-a981-b6711aa5f832](https://github.com/vinnush147/Read-from-CSV/assets/147139234/7bd00513-7754-4760-9e64-474ed2b32dbc)
+
 
 
 # csv file:
+![image](https://github.com/vinnush147/Read-from-CSV/assets/147139234/15d589bd-b445-4b02-be05-f1f12a5f9a1b)
+
 
 ## RESULT:
 Thus the program is written to read a csv file
